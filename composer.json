@@ -10,6 +10,6 @@
         }
     ],
     "require": {
-        "hitc-kit/core-bundle": "*"
+        "hitc-kit/core-bundle": "dev-master"
     }
 }
