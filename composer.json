@@ -1,0 +1,15 @@
+{
+    "name": "hitc-kit/cms-pack",
+    "type": "symfony-pack",
+    "description": "Метапакет для hitc-kit/cms",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "Maksim Voskresenskii",
+            "email": "maksim@24webdev.ru"
+        }
+    ],
+    "require": {
+        "hitc-kit/core-bundle": "*"
+    }
+}
