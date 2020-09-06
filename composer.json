@@ -9,7 +9,7 @@
             "email": "maksim@24webdev.ru"
         }
     ],
-    "require": {
+    "flex-require": {
         "hitc-kit/core-bundle": "*"
     }
 }
