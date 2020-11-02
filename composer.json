@@ -1,7 +1,7 @@
 {
     "name": "hitc-kit/cms-pack",
     "type": "symfony-pack",
-    "description": "Метапакет для hitc-kit/cms",
+    "description": "Метапакет для «hitc-kit/cms»",
     "license": "MIT",
     "authors": [
         {
@@ -11,6 +11,7 @@
     ],
     "require": {
         "hitc-kit/core-bundle": "*",
+        "hitc-kit/auth-bundle": "*",
         "hitc-kit/catalog-bundle": "*"
     }
 }

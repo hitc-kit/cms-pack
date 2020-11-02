@@ -1,1 +1,1 @@
-Метапакет для hitc-kit/cms
+Метапакет для «hitc-kit/cms»
